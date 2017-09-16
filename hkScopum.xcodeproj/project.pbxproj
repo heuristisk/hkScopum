@@ -13,8 +13,6 @@
 		8B376D3B1F6CBBA600440494 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B376D381F6CBB8700440494 /* LaunchScreen.storyboard */; };
 		8B376D3D1F6CBE7800440494 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B376D3C1F6CBE7800440494 /* Config.swift */; };
 		8B376D3F1F6CC19D00440494 /* StringUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B376D3E1F6CC19D00440494 /* StringUtility.swift */; };
-		8B376D401F6CC2AF00440494 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B6544851F6CB4980070AB94 /* Info.plist */; };
-		8B376D411F6CC2AF00440494 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B6544851F6CB4980070AB94 /* Info.plist */; };
 		8B376D421F6CC2B500440494 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B376D3C1F6CBE7800440494 /* Config.swift */; };
 		8B376D431F6CC2B800440494 /* StringUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B376D3E1F6CC19D00440494 /* StringUtility.swift */; };
 		8B376D451F6CC39C00440494 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B376D441F6CC39C00440494 /* Default-568h@2x.png */; };
@@ -194,7 +192,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B376D401F6CC2AF00440494 /* Info.plist in Resources */,
 				8B376D3B1F6CBBA600440494 /* LaunchScreen.storyboard in Resources */,
 				8B6544811F6CB4980070AB94 /* Assets.xcassets in Resources */,
 				8B65447F1F6CB4980070AB94 /* Main.storyboard in Resources */,
@@ -205,7 +202,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B376D411F6CC2AF00440494 /* Info.plist in Resources */,
 				8B376D3A1F6CBB8700440494 /* LaunchScreen.storyboard in Resources */,
 				8B6544921F6CB5060070AB94 /* Assets.xcassets in Resources */,
 				8B376D451F6CC39C00440494 /* Default-568h@2x.png in Resources */,
